@@ -15,7 +15,7 @@ def fourth_challenge
       :heroine_friends => [
         #your hashes here!
         {name:"Steven" , age:"30" , attitude:"confused"},
-        {name: , age: , attitude:}
+        {name:"Nurse" , age:"44" , attitude:"worried"}
       ]
    }
 }
